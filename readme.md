@@ -2,7 +2,7 @@
 
 <h3>HTML and CSS Portfolio Website</h3>
 
-Site can be view at: https://k-zimny.github.io/Jubilee-Austen-Portfolio/
+Site can be viewed at: https://k-zimny.github.io/Jubilee-Austen-Portfolio/
 
 File Description: 
 
