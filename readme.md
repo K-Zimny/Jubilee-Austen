@@ -1,10 +1,10 @@
-Jubilee Austen's Portfolio
+<h1>Jubilee Austen's Portfolio</h1>
 
-HTML and CSS Portfolio Website
+<h3>HTML and CSS Portfolio Website</h3>
 
-Site can be view at: 
+Site can be view at: https://k-zimny.github.io/Jubilee-Austen-Portfolio/
 
 File Description: 
 
-"Clean and concise, this portfolio design gives the viewer important information without the clutter. Quickly and easily find out about them, their work, and how to get in contact.!"
+<em>"Clean and concise, this portfolio design gives the viewer important information without the clutter. Quickly and easily find out about them, their work, and how to get in contact."</em>
 
